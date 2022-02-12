@@ -1,4 +1,10 @@
-# the-task-2-composition-api
+# the-task-2
+
+[Условие](https://github.com/kirillmurashov/the-task-2)
+
+[Реализация на Vue 2](https://github.com/c7pt7in/the-task-2)
+
+<img src='./preview.png'>
 
 ## Project setup
 ```
