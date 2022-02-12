@@ -1,4 +1,4 @@
-# the-task-2-compositi-api
+# the-task-2-composition-api
 
 ## Project setup
 ```
